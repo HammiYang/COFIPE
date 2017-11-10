@@ -1,0 +1,18 @@
+{
+  "name": "cofipe",
+  "version": "1.0.0",
+  "description": "Control de finanzas personales",
+  "scripts": {
+    "lite": "lite-server --port 3000",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  },
+  "dependencies": {
+    "lite": "^4.0.5",
+    "run": "^1.4.0"
+  }
+}
